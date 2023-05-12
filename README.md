@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning DL/ML.
-- 👯 I’m looking to collaborate on talented AI team
-- 💬 Ask me about anything
+- 👯 I’m looking to collaborate on talented AI team.
+- 💬 Ask me about anything.
 - ⚡ Fun fact: I love Arena games, Basketball, Sing as singer and handsome.
 
 
